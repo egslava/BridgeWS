@@ -1,0 +1,6 @@
+targetHost: v777.com
+targetPort: 23020
+port: 8887
+charMap: !CharMap[]
+ - websocket: 1
+   socket: 0
